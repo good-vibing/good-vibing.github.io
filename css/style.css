@@ -1,0 +1,66 @@
+body {
+
+	background-color: pink;
+}
+
+.navbar {
+
+	background-color: pink!important;
+	border: 1px solid white;
+
+}
+
+.navbar-brand {
+
+	color:white!important;
+	border-right: 1px solid white!important;
+	padding: 10px;
+}
+
+.nav-link {
+
+	color:white!important;
+}
+
+
+#image1 {
+
+	height: auto;
+	width:100%;
+}
+
+#image2 {
+
+	height:auto;
+	width:100%;
+}
+
+#image3 {
+
+	height:auto;
+	width:100%;
+}
+
+#image4 {
+
+	height:auto;
+	width: 100%;
+}
+
+#image5 {
+
+	height:auto;
+	width:100%;
+}
+
+#image6 {
+
+	height:auto;
+	width:100%;
+}
+
+h1 {
+
+	font-size:12pt;
+	color: white;
+}
