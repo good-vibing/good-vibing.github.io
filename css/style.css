@@ -1,6 +1,8 @@
 body {
 
 	background-color: pink;
+	font-family: 'Dancing Script', cursive;
+	font-size: 30px;
 }
 
 .navbar {
@@ -15,6 +17,7 @@ body {
 	color:white!important;
 	border-right: 1px solid white!important;
 	padding: 10px;
+	font-size:40px;
 }
 
 .nav-link {
@@ -64,6 +67,7 @@ h1 {
 	font-size:12pt;
 	color: white;
 	margin-top:30px;
+	font-size:25px;
 }
 
 .card {
@@ -85,13 +89,14 @@ margin-top: 45px;
 h2{
 	font-size:12pt;
 	color: white;
-	
+	font-size:25px;
 }
 
 h3{
 	font-size:12pt;
 	color: white;
 	margin-top:30px;
+	font-size:25px;
 }
 
 .btn-primary {
@@ -109,5 +114,5 @@ h3{
 #gif {
 width:100%;
 	    right: 50px;
-margin-top:35px;
+margin-top:48px;
 }
